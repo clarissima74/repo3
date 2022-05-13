@@ -12,6 +12,7 @@ public class Ejercicio2 {
 	}
 	protected static void despedida()
 	{
+		//comentario
 		System.out.println("Hasta pronto");
 	}
 
