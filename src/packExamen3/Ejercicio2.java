@@ -6,5 +6,9 @@ public class Ejercicio2 {
 		// TODO Auto-generated method stub
 
 	}
+	protected static void saludar()
+	{
+		System.out.println("Buenos días");
+	}
 
 }
