@@ -8,6 +8,7 @@ public class Ejercicio2 {
 	}
 	protected static void saludar()
 	{
+		//Hola qué tal
 		System.out.println("Buenos días");
 	}
 	protected static void despedida()
