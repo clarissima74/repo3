@@ -10,5 +10,9 @@ public class Ejercicio2 {
 	{
 		System.out.println("Buenos días");
 	}
+	protected static void despedida()
+	{
+		System.out.println("Hasta pronto");
+	}
 
 }
