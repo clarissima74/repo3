@@ -8,12 +8,12 @@ public class Ejercicio2 {
 	}
 	protected static void saludar()
 	{
-		//Hola qué tal
+		//Hola qué tal 1
 		System.out.println("Buenos días");
 	}
 	protected static void despedida()
 	{
-		//comentario
+		//comentario 2
 		System.out.println("Hasta pronto");
 	}
 
