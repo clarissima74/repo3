@@ -8,7 +8,7 @@ public class Ejercicio1 {
 	}
 	public static void Mensaje()
 	{
-		//comento
+		//comento 2
 		System.out.println("Hola");
 	}
 
