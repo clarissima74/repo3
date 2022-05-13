@@ -8,6 +8,7 @@ public class Ejercicio1 {
 	}
 	public static void Mensaje()
 	{
+		//saludo 
 		System.out.println("Hola");
 	}
 
